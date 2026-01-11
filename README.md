@@ -96,7 +96,5 @@ Audience engagement (measured by votes) also plays a significant role in revenue
 ---
 
 ## 📚 Reference
-This project was inspired by a Python-based data analysis tutorial and was independently implemented with customized preprocessing, analysis logic, and visualizations.
-
-YouTube Reference:  
-https://www.youtube.com/watch?v=iPYVYBtUTyE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=4
+This project was developed by referencing general ideas and approaches shared by  
+[Alex The Analyst](https://github.com/AlexTheAnalyst).
