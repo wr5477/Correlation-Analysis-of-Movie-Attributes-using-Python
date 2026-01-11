@@ -92,9 +92,3 @@ While correlations involving encoded categorical variables should be interpreted
 ## 🎯 Key Insight
 Among all examined features, **budget shows the strongest positive correlation with gross revenue**, indicating that higher production investment is closely associated with higher box office returns.  
 Audience engagement (measured by votes) also plays a significant role in revenue outcomes.
-
----
-
-## 📚 Reference
-This project was developed by referencing general ideas and approaches shared by  
-[Alex The Analyst](https://github.com/AlexTheAnalyst).
